@@ -14,4 +14,5 @@ public interface VendingMachine {
 
     String[] getProducts();
 
+
 }
